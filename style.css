@@ -59,6 +59,10 @@ a {
     text-align: center;
 }
 
+.section a {
+    text-decoration: none;
+}
+
 .row {
     display: flex;
     justify-content: space-around;
