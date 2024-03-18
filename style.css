@@ -9,6 +9,18 @@ body {
     margin: 0 auto;
 }
 
+.notification {
+    padding: 10px;
+    background: #06061b;
+    width: 100%;
+    color: #efefef;
+    text-align: center;
+}
+
+.notification a {
+    color:#efefef;
+}
+
 .header {
     padding: 20px;
     display: flex;
@@ -32,7 +44,7 @@ body {
     height: auto;
 }
 
-h1, h1 a {
+h1 {
     margin: 0 10px;
     text-decoration: none;
     color: #06061b;
@@ -40,6 +52,7 @@ h1, h1 a {
 
 a {
     text-decoration: none;
+    color: #06061b;
 }
 
 .small {
@@ -57,11 +70,6 @@ a {
 .section {
     padding: 20px;
     text-align: center;
-}
-
-.section a {
-    text-decoration: none;
-    color: #06061b;
 }
 
 .row {
