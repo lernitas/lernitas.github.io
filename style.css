@@ -15,6 +15,7 @@ body {
     width: 100%;
     color: #efefef;
     text-align: center;
+    border-radius: 0 0 6px 6px;
 }
 
 .notification a {
