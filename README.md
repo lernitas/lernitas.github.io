@@ -1,6 +1,6 @@
 # lernitas.github.io
 
-https://lernitas.com | https://kenglernitas.com
+http://lernitas.com | http://kenglernitas.com
 
 hey I buidl dus gud wit luv pls gib coin
 
